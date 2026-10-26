@@ -1,0 +1,41 @@
+name: Aggiorna calendario Napoli Basket
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # ogni 6 ore
+  workflow_dispatch:          # pulsante "Run workflow" per aggiornarlo a mano
+  push:
+    branches: [main]
+    paths: ["genera_calendario.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendario
+  cancel-in-progress: false
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Genera il calendario
+        run: python genera_calendario.py
+
+      - name: Salva le modifiche
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          if git diff --cached --quiet; then
+            echo "Nessuna novità."
+          else
+            git commit -m "Aggiornamento calendario"
+            git push
+          fi

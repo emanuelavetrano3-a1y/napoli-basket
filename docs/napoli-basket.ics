@@ -1,0 +1,540 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Napoli Basket Calendario//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 Napoli Basket – tutte le partite
+X-WR-TIMEZONE:Europe/Rome
+X-WR-CALDESC:Serie A\, coppe e EuroCup del Napoli Basket. Aggiornato in aut
+ omatico.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:lba-25604@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20260927T161500Z
+DTEND:20260927T181500Z
+SUMMARY:🏀 Maxima Roma 75-94 Napoli (Serie A)
+LOCATION:PalaEur\, Roma
+DESCRIPTION:Serie A\n1° Giornata\nMaxima Roma – Napoli Basketball\nhttps
+ ://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_10@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:🏀 Napoli 84-76 Cosea JL Bourg-en-Bresse (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 1\nNapoli Basketball – Cosea JL Bourg-en-Bress
+ e\nhttps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25373@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261003T183000Z
+DTEND:20261003T203000Z
+SUMMARY:🏀 Napoli 99-93 UNA Hotels Reggio Emilia (Serie A)
+LOCATION:Alcott Arena\, Napoli
+DESCRIPTION:Serie A\n2° Giornata\nNapoli Basketball – UNA Hotels Reggio 
+ Emilia\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_28@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261006T170000Z
+DTEND:20261006T190000Z
+SUMMARY:🏀 Buducnost VOLI Podgorica 75-93 Napoli (EuroCup)
+LOCATION:MORACA\, Ivana Milutinovica BB - 81000 Podgorica - Montenegro
+DESCRIPTION:EuroCup\nTurno 2\nBuducnost VOLI Podgorica – Napoli Basketbal
+ l\nhttps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25382@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261011T150000Z
+DTEND:20261011T170000Z
+SUMMARY:🏀 Acqua S.Bernardo Cantù 80-99 Napoli (Serie A)
+LOCATION:PalaDesio\, Desio
+DESCRIPTION:Serie A\n3° Giornata\nAcqua S.Bernardo Cantù – Napoli Baske
+ tball\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_41@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261014T170000Z
+DTEND:20261014T190000Z
+SUMMARY:🏀 Slask Wroclaw 82-86 Napoli (EuroCup)
+LOCATION:HALA ORBITA\, Ul. Wejherowska 34\, 54-239 Wroclaw\, Poland
+DESCRIPTION:EuroCup\nTurno 3\nSlask Wroclaw – Napoli Basketball\nhttps://
+ www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25391@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:🏀 Napoli 82-98 Armani Olimpia Milano (Serie A)
+LOCATION:Alcott Arena\, Napoli
+DESCRIPTION:Serie A\n4° Giornata\nNapoli Basketball – Armani Olimpia Mil
+ ano\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_60@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:🏀 Napoli 105-101 Tofas Bursa (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 4\nNapoli Basketball – Tofas Bursa\nhttps://ww
+ w.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25393@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:🏀 Bertram Derthona Tortona 90-92 Napoli (Serie A)
+LOCATION:Nova Arena\, Tortona
+DESCRIPTION:Serie A\n5° Giornata\nBertram Derthona Tortona – Napoli Bask
+ etball\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_74@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261028T170000Z
+DTEND:20261028T190000Z
+SUMMARY:🏀 Neptunas Klaipeda – Napoli (EuroCup)
+LOCATION:SVYTURIO ARENA\, Dubysos Str. 10\, 93231 Klaipeda\, Lithuania
+DESCRIPTION:EuroCup\nTurno 5\nNeptunas Klaipeda – Napoli Basketball\nhttp
+ s://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25405@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:🏀 Napoli – Umana Reyer Venezia (Serie A)
+LOCATION:Alcott Arena\, Napoli
+DESCRIPTION:Serie A\n6° Giornata\nNapoli Basketball – Umana Reyer Venezi
+ a\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_91@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261103T190000Z
+DTEND:20261103T210000Z
+SUMMARY:🏀 Napoli – Dolomiti Energia Trento (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 6\nNapoli Basketball – Dolomiti Energia Trento
+ \nhttps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25413@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:🏀 Longobardi Scafati Basket – Napoli (Serie A)
+LOCATION:Beta Ricambi Arena PalaMangano\, Scafati
+DESCRIPTION:Serie A\n7° Giornata\nLongobardi Scafati Basket – Napoli Bas
+ ketball\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_107@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261111T180000Z
+DTEND:20261111T200000Z
+SUMMARY:🏀 NINERS Chemnitz – Napoli (EuroCup)
+LOCATION:MESSE CHEMNITZ\, Messeplatz 1\, 09116 Chemnitz\, Germany
+DESCRIPTION:EuroCup\nTurno 7\nNINERS Chemnitz – Napoli Basketball\nhttps:
+ //www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25420@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261115T160000Z
+DTEND:20261115T180000Z
+SUMMARY:🏀 Napoli – Pallacanestro Trieste (Serie A)
+LOCATION:Alcott Arena\, Napoli
+DESCRIPTION:Serie A\n8° Giornata\nNapoli Basketball – Pallacanestro Trie
+ ste\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_122@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261118T183000Z
+DTEND:20261118T203000Z
+SUMMARY:🏀 Cosea JL Bourg-en-Bresse – Napoli (EuroCup)
+LOCATION:EKINOX\, 25 Avenue Marechal Juin\, 01000 Bourg en Bresse\, France
+DESCRIPTION:EuroCup\nTurno 8\nCosea JL Bourg-en-Bresse – Napoli Basketbal
+ l\nhttps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25426@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261122T160000Z
+DTEND:20261122T180000Z
+SUMMARY:🏀 Dolomiti Energia Trentino – Napoli (Serie A)
+LOCATION:BTS Arena\, Trento
+DESCRIPTION:Serie A\n9° Giornata\nDolomiti Energia Trentino – Napoli Bas
+ ketball\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25436@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261206T110000Z
+DTEND:20261206T130000Z
+SUMMARY:🏀 Napoli – Tezenis Verona (Serie A)
+LOCATION:Alcott Arena\, Napoli
+DESCRIPTION:Serie A\n10° Giornata\nNapoli Basketball – Tezenis Verona\nh
+ ttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_140@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T210000Z
+SUMMARY:🏀 Napoli – Buducnost VOLI Podgorica (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 9\nNapoli Basketball – Buducnost VOLI Podgoric
+ a\nhttps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25441@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:🏀 BC Roma – Napoli (Serie A) – orario da definire
+DESCRIPTION:Serie A\n11° Giornata\nBC Roma – Napoli Basketball\nOrario n
+ on ancora ufficiale: verrà aggiornato appena la lega lo comunica.\nhttps:
+ //www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_153@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261215T190000Z
+DTEND:20261215T210000Z
+SUMMARY:🏀 Napoli – Slask Wroclaw (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 10\nNapoli Basketball – Slask Wroclaw\nhttps:/
+ /www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25451@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Openjobmetis Varese (Serie A) – orario da definir
+ e
+DESCRIPTION:Serie A\n12° Giornata\nNapoli Basketball – Openjobmetis Vare
+ se\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comun
+ ica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_172@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261223T170000Z
+DTEND:20261223T190000Z
+SUMMARY:🏀 Tofas Bursa – Napoli (EuroCup)
+LOCATION:TOFAS SPOR SALONU\, Fethiye Mahallesi\, Nilüfer Hatun Cd. No:133\
+ , 16140 Nilüfer/Bursa\, Turkiye
+DESCRIPTION:EuroCup\nTurno 11\nTofas Bursa – Napoli Basketball\nhttps://w
+ ww.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25463@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+TRANSP:TRANSPARENT
+SUMMARY:🏀 APU Old Wild West Udine – Napoli (Serie A) – orario da def
+ inire
+DESCRIPTION:Serie A\n13° Giornata\nAPU Old Wild West Udine – Napoli Bask
+ etball\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo c
+ omunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_186@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20261230T190000Z
+DTEND:20261230T210000Z
+SUMMARY:🏀 Napoli – Neptunas Klaipeda (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 12\nNapoli Basketball – Neptunas Klaipeda\nhtt
+ ps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25468@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Virtus Costa Bologna (Serie A) – orario da defini
+ re
+DESCRIPTION:Serie A\n14° Giornata\nNapoli Basketball – Virtus Costa Bolo
+ gna\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comu
+ nica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_203@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20270105T190000Z
+DTEND:20270105T210000Z
+SUMMARY:🏀 Dolomiti Energia Trento – Napoli (EuroCup)
+LOCATION:BTS ARENA\, Via Fersina 11\, 38123 Trento\, Italy
+DESCRIPTION:EuroCup\nTurno 13\nDolomiti Energia Trento – Napoli Basketbal
+ l\nhttps://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25477@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Nutribullet Treviso Basket – Napoli (Serie A) – orario da 
+ definire
+DESCRIPTION:Serie A\n15° Giornata\nNutribullet Treviso Basket – Napoli B
+ asketball\nOrario non ancora ufficiale: verrà aggiornato appena la lega l
+ o comunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:eurocup-U2026_219@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART:20270113T190000Z
+DTEND:20270113T210000Z
+SUMMARY:🏀 Napoli – NINERS Chemnitz (EuroCup)
+LOCATION:ALCOTT ARENA\, Viale Giochi Del Mediterraneo SNC\, Napoli\, 80125\
+ , Italy
+DESCRIPTION:EuroCup\nTurno 14\nNapoli Basketball – NINERS Chemnitz\nhttps
+ ://www.euroleaguebasketball.net/eurocup/
+URL:https://www.euroleaguebasketball.net/eurocup/
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25480@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Armani Olimpia Milano – Napoli (Serie A) – orario da defin
+ ire
+DESCRIPTION:Serie A\n16° Giornata\nArmani Olimpia Milano – Napoli Basket
+ ball\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo com
+ unica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25494@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Bertram Derthona Tortona (Serie A) – orario da de
+ finire
+DESCRIPTION:Serie A\n17° Giornata\nNapoli Basketball – Bertram Derthona 
+ Tortona\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo 
+ comunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25502@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+SUMMARY:🏀 UNA Hotels Reggio Emilia – Napoli (Serie A) – orario da de
+ finire
+DESCRIPTION:Serie A\n18° Giornata\nUNA Hotels Reggio Emilia – Napoli Bas
+ ketball\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo 
+ comunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25509@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Maxima Roma (Serie A) – orario da definire
+DESCRIPTION:Serie A\n19° Giornata\nNapoli Basketball – Maxima Roma\nOrar
+ io non ancora ufficiale: verrà aggiornato appena la lega lo comunica.\nht
+ tps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25516@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Longobardi Scafati Basket (Serie A) – orario da d
+ efinire
+DESCRIPTION:Serie A\n20° Giornata\nNapoli Basketball – Longobardi Scafat
+ i Basket\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo
+  comunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25526@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Openjobmetis Varese – Napoli (Serie A) – orario da definir
+ e
+DESCRIPTION:Serie A\n21° Giornata\nOpenjobmetis Varese – Napoli Basketba
+ ll\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comun
+ ica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25533@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Dolomiti Energia Trentino (Serie A) – orario da d
+ efinire
+DESCRIPTION:Serie A\n22° Giornata\nNapoli Basketball – Dolomiti Energia 
+ Trentino\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo
+  comunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25537@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Tezenis Verona – Napoli (Serie A) – orario da definire
+DESCRIPTION:Serie A\n23° Giornata\nTezenis Verona – Napoli Basketball\nO
+ rario non ancora ufficiale: verrà aggiornato appena la lega lo comunica.\
+ nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25547@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Nutribullet Treviso Basket (Serie A) – orario da 
+ definire
+DESCRIPTION:Serie A\n24° Giornata\nNapoli Basketball – Nutribullet Trevi
+ so Basket\nOrario non ancora ufficiale: verrà aggiornato appena la lega l
+ o comunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25556@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – APU Old Wild West Udine (Serie A) – orario da def
+ inire
+DESCRIPTION:Serie A\n25° Giornata\nNapoli Basketball – APU Old Wild West
+  Udine\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo c
+ omunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25560@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Virtus Costa Bologna – Napoli (Serie A) – orario da defini
+ re
+DESCRIPTION:Serie A\n26° Giornata\nVirtus Costa Bologna – Napoli Basketb
+ all\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comu
+ nica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25571@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – BC Roma (Serie A) – orario da definire
+DESCRIPTION:Serie A\n27° Giornata\nNapoli Basketball – BC Roma\nOrario n
+ on ancora ufficiale: verrà aggiornato appena la lega lo comunica.\nhttps:
+ //www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25581@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Umana Reyer Venezia – Napoli (Serie A) – orario da definir
+ e
+DESCRIPTION:Serie A\n28° Giornata\nUmana Reyer Venezia – Napoli Basketba
+ ll\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comun
+ ica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25587@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Pallacanestro Trieste – Napoli (Serie A) – orario da defin
+ ire
+DESCRIPTION:Serie A\n29° Giornata\nPallacanestro Trieste – Napoli Basket
+ ball\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo com
+ unica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+BEGIN:VEVENT
+UID:lba-25597@napoli-basket-calendario
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+SUMMARY:🏀 Napoli – Acqua S.Bernardo Cantù (Serie A) – orario da def
+ inire
+DESCRIPTION:Serie A\n30° Giornata\nNapoli Basketball – Acqua S.Bernardo 
+ Cantù\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo c
+ omunica.\nhttps://www.legabasket.it/calendario
+URL:https://www.legabasket.it/calendario
+END:VEVENT
+END:VCALENDAR

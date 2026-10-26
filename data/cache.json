@@ -1,0 +1,562 @@
+{
+ "stagione": 2026,
+ "lba": [
+  {
+   "uid": "lba-25604@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "1° Giornata",
+   "casa": "Maxima Roma",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-09-27T16:15:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "PalaEur, Roma",
+   "punteggio": [
+    75,
+    94
+   ],
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25373@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "2° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "UNA Hotels Reggio Emilia",
+   "inizio": "2026-10-03T18:30:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Alcott Arena, Napoli",
+   "punteggio": [
+    99,
+    93
+   ],
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25382@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "3° Giornata",
+   "casa": "Acqua S.Bernardo Cantù",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-10-11T15:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "PalaDesio, Desio",
+   "punteggio": [
+    80,
+    99
+   ],
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25391@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "4° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Armani Olimpia Milano",
+   "inizio": "2026-10-18T10:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Alcott Arena, Napoli",
+   "punteggio": [
+    82,
+    98
+   ],
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25393@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "5° Giornata",
+   "casa": "Bertram Derthona Tortona",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-10-25T11:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Nova Arena, Tortona",
+   "punteggio": [
+    90,
+    92
+   ],
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25405@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "6° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Umana Reyer Venezia",
+   "inizio": "2026-11-01T11:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Alcott Arena, Napoli",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25413@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "7° Giornata",
+   "casa": "Longobardi Scafati Basket",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-11-08T17:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Beta Ricambi Arena PalaMangano, Scafati",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25420@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "8° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Pallacanestro Trieste",
+   "inizio": "2026-11-15T16:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Alcott Arena, Napoli",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25426@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "9° Giornata",
+   "casa": "Dolomiti Energia Trentino",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-11-22T16:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "BTS Arena, Trento",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25436@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "10° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Tezenis Verona",
+   "inizio": "2026-12-06T11:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Alcott Arena, Napoli",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25441@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "11° Giornata",
+   "casa": "BC Roma",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-12-13",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25451@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "12° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Openjobmetis Varese",
+   "inizio": "2026-12-20",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25463@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "13° Giornata",
+   "casa": "APU Old Wild West Udine",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-12-27",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25468@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "14° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Virtus Costa Bologna",
+   "inizio": "2027-01-03",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25477@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "15° Giornata",
+   "casa": "Nutribullet Treviso Basket",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-01-10",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25480@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "16° Giornata",
+   "casa": "Armani Olimpia Milano",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-01-17",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25494@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "17° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Bertram Derthona Tortona",
+   "inizio": "2027-01-24",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25502@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "18° Giornata",
+   "casa": "UNA Hotels Reggio Emilia",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-01-31",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25509@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "19° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Maxima Roma",
+   "inizio": "2027-02-07",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25516@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "20° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Longobardi Scafati Basket",
+   "inizio": "2027-02-14",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25526@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "21° Giornata",
+   "casa": "Openjobmetis Varese",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-03-07",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25533@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "22° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Dolomiti Energia Trentino",
+   "inizio": "2027-03-14",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25537@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "23° Giornata",
+   "casa": "Tezenis Verona",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-03-21",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25547@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "24° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Nutribullet Treviso Basket",
+   "inizio": "2027-03-27",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25556@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "25° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "APU Old Wild West Udine",
+   "inizio": "2027-04-04",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25560@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "26° Giornata",
+   "casa": "Virtus Costa Bologna",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-04-11",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25571@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "27° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "BC Roma",
+   "inizio": "2027-04-18",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25581@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "28° Giornata",
+   "casa": "Umana Reyer Venezia",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-04-25",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25587@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "29° Giornata",
+   "casa": "Pallacanestro Trieste",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-05-02",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  },
+  {
+   "uid": "lba-25597@napoli-basket-calendario",
+   "competizione": "Serie A",
+   "turno": "30° Giornata",
+   "casa": "Napoli Basketball",
+   "ospite": "Acqua S.Bernardo Cantù",
+   "inizio": "2027-05-09",
+   "tutto_il_giorno": true,
+   "luogo": "",
+   "punteggio": null,
+   "link": "https://www.legabasket.it/calendario"
+  }
+ ],
+ "eurocup": [
+  {
+   "uid": "eurocup-U2026_219@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 14",
+   "casa": "Napoli Basketball",
+   "ospite": "NINERS Chemnitz",
+   "inizio": "2027-01-13T19:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_203@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 13",
+   "casa": "Dolomiti Energia Trento",
+   "ospite": "Napoli Basketball",
+   "inizio": "2027-01-05T19:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "BTS ARENA, Via Fersina 11, 38123 Trento, Italy",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_186@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 12",
+   "casa": "Napoli Basketball",
+   "ospite": "Neptunas Klaipeda",
+   "inizio": "2026-12-30T19:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_172@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 11",
+   "casa": "Tofas Bursa",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-12-23T17:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "TOFAS SPOR SALONU, Fethiye Mahallesi, Nilüfer Hatun Cd. No:133, 16140 Nilüfer/Bursa, Turkiye",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_153@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 10",
+   "casa": "Napoli Basketball",
+   "ospite": "Slask Wroclaw",
+   "inizio": "2026-12-15T19:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_140@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 9",
+   "casa": "Napoli Basketball",
+   "ospite": "Buducnost VOLI Podgorica",
+   "inizio": "2026-12-09T19:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_122@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 8",
+   "casa": "Cosea JL Bourg-en-Bresse",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-11-18T18:30:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "EKINOX, 25 Avenue Marechal Juin, 01000 Bourg en Bresse, France",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_107@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 7",
+   "casa": "NINERS Chemnitz",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-11-11T18:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "MESSE CHEMNITZ, Messeplatz 1, 09116 Chemnitz, Germany",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_91@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 6",
+   "casa": "Napoli Basketball",
+   "ospite": "Dolomiti Energia Trento",
+   "inizio": "2026-11-03T19:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_74@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 5",
+   "casa": "Neptunas Klaipeda",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-10-28T17:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "SVYTURIO ARENA, Dubysos Str. 10, 93231 Klaipeda, Lithuania",
+   "punteggio": null,
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_60@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 4",
+   "casa": "Napoli Basketball",
+   "ospite": "Tofas Bursa",
+   "inizio": "2026-10-21T18:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": [
+    105,
+    101
+   ],
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_41@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 3",
+   "casa": "Slask Wroclaw",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-10-14T17:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "HALA ORBITA, Ul. Wejherowska 34, 54-239 Wroclaw, Poland",
+   "punteggio": [
+    82,
+    86
+   ],
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_28@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 2",
+   "casa": "Buducnost VOLI Podgorica",
+   "ospite": "Napoli Basketball",
+   "inizio": "2026-10-06T17:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "MORACA, Ivana Milutinovica BB - 81000 Podgorica - Montenegro",
+   "punteggio": [
+    75,
+    93
+   ],
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  },
+  {
+   "uid": "eurocup-U2026_10@napoli-basket-calendario",
+   "competizione": "EuroCup",
+   "turno": "Turno 1",
+   "casa": "Napoli Basketball",
+   "ospite": "Cosea JL Bourg-en-Bresse",
+   "inizio": "2026-09-30T18:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "punteggio": [
+    84,
+    76
+   ],
+   "link": "https://www.euroleaguebasketball.net/eurocup/"
+  }
+ ]
+}

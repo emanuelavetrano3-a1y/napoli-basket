@@ -495,7 +495,10 @@
    "inizio": "2026-10-28T17:00:00+00:00",
    "tutto_il_giorno": false,
    "luogo": "SVYTURIO ARENA, Dubysos Str. 10, 93231 Klaipeda, Lithuania",
-   "punteggio": null,
+   "punteggio": [
+    85,
+    94
+   ],
    "link": "https://www.euroleaguebasketball.net/eurocup/"
   },
   {

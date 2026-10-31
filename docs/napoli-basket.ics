@@ -225,13 +225,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lba-25441@napoli-basket-calendario
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-TRANSP:TRANSPARENT
-SUMMARY:🏀 BC Roma – Napoli (Serie A) – orario da definire
-DESCRIPTION:Serie A\n11° Giornata\nBC Roma – Napoli Basketball\nOrario n
- on ancora ufficiale: verrà aggiornato appena la lega lo comunica.\nhttps:
- //www.legabasket.it/calendario
+DTSTART:20261212T193000Z
+DTEND:20261212T213000Z
+SUMMARY:🏀 BC Roma – Napoli (Serie A)
+LOCATION:Palazzetto dello Sport\, Roma
+DESCRIPTION:Serie A\n11° Giornata\nBC Roma – Napoli Basketball\nhttps://
+ www.legabasket.it/calendario
 URL:https://www.legabasket.it/calendario
 END:VEVENT
 BEGIN:VEVENT

@@ -142,9 +142,9 @@
    "turno": "11° Giornata",
    "casa": "BC Roma",
    "ospite": "Napoli Basketball",
-   "inizio": "2026-12-13",
-   "tutto_il_giorno": true,
-   "luogo": "",
+   "inizio": "2026-12-12T19:30:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Palazzetto dello Sport, Roma",
    "punteggio": null,
    "link": "https://www.legabasket.it/calendario"
   },

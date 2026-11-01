@@ -85,7 +85,10 @@
    "inizio": "2026-11-01T11:00:00+00:00",
    "tutto_il_giorno": false,
    "luogo": "Alcott Arena, Napoli",
-   "punteggio": null,
+   "punteggio": [
+    99,
+    81
+   ],
    "link": "https://www.legabasket.it/calendario"
   },
   {
@@ -154,9 +157,9 @@
    "turno": "12° Giornata",
    "casa": "Napoli Basketball",
    "ospite": "Openjobmetis Varese",
-   "inizio": "2026-12-20",
-   "tutto_il_giorno": true,
-   "luogo": "",
+   "inizio": "2026-12-19T19:30:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "Alcott Arena, Napoli",
    "punteggio": null,
    "link": "https://www.legabasket.it/calendario"
   },
@@ -166,9 +169,9 @@
    "turno": "13° Giornata",
    "casa": "APU Old Wild West Udine",
    "ospite": "Napoli Basketball",
-   "inizio": "2026-12-27",
-   "tutto_il_giorno": true,
-   "luogo": "",
+   "inizio": "2026-12-27T11:00:00+00:00",
+   "tutto_il_giorno": false,
+   "luogo": "PalaCarnera Credifriuli, Udine",
    "punteggio": null,
    "link": "https://www.legabasket.it/calendario"
   },

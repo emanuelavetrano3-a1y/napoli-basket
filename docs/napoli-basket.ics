@@ -126,7 +126,7 @@ UID:lba-25405@napoli-basket-calendario
 DTSTAMP:20260101T000000Z
 DTSTART:20261101T110000Z
 DTEND:20261101T130000Z
-SUMMARY:🏀 Napoli – Umana Reyer Venezia (Serie A)
+SUMMARY:🏀 Napoli 99-81 Umana Reyer Venezia (Serie A)
 LOCATION:Alcott Arena\, Napoli
 DESCRIPTION:Serie A\n6° Giornata\nNapoli Basketball – Umana Reyer Venezi
  a\nhttps://www.legabasket.it/calendario
@@ -248,14 +248,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lba-25451@napoli-basket-calendario
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-TRANSP:TRANSPARENT
-SUMMARY:🏀 Napoli – Openjobmetis Varese (Serie A) – orario da definir
- e
+DTSTART:20261219T193000Z
+DTEND:20261219T213000Z
+SUMMARY:🏀 Napoli – Openjobmetis Varese (Serie A)
+LOCATION:Alcott Arena\, Napoli
 DESCRIPTION:Serie A\n12° Giornata\nNapoli Basketball – Openjobmetis Vare
- se\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comun
- ica.\nhttps://www.legabasket.it/calendario
+ se\nhttps://www.legabasket.it/calendario
 URL:https://www.legabasket.it/calendario
 END:VEVENT
 BEGIN:VEVENT
@@ -273,14 +271,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lba-25463@napoli-basket-calendario
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-TRANSP:TRANSPARENT
-SUMMARY:🏀 APU Old Wild West Udine – Napoli (Serie A) – orario da def
- inire
+DTSTART:20261227T110000Z
+DTEND:20261227T130000Z
+SUMMARY:🏀 APU Old Wild West Udine – Napoli (Serie A)
+LOCATION:PalaCarnera Credifriuli\, Udine
 DESCRIPTION:Serie A\n13° Giornata\nAPU Old Wild West Udine – Napoli Bask
- etball\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo c
- omunica.\nhttps://www.legabasket.it/calendario
+ etball\nhttps://www.legabasket.it/calendario
 URL:https://www.legabasket.it/calendario
 END:VEVENT
 BEGIN:VEVENT

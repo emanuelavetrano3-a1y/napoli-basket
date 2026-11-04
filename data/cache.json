@@ -486,7 +486,10 @@
    "inizio": "2026-11-03T19:00:00+00:00",
    "tutto_il_giorno": false,
    "luogo": "ALCOTT ARENA, Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
-   "punteggio": null,
+   "punteggio": [
+    90,
+    79
+   ],
    "link": "https://www.euroleaguebasketball.net/eurocup/"
   },
   {

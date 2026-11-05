@@ -191,8 +191,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lba-25426@napoli-basket-calendario
 DTSTAMP:20260101T000000Z
-DTSTART:20261122T180000Z
-DTEND:20261122T200000Z
+DTSTART:20261121T180000Z
+DTEND:20261121T200000Z
 SUMMARY:🏀 Dolomiti Energia Trentino – Napoli (Serie A)
 LOCATION:BTS Arena\, Trento
 DESCRIPTION:Serie A\n9° Giornata\nDolomiti Energia Trentino – Napoli Bas
@@ -294,15 +294,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:lba-25468@napoli-basket-calendario
 DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-TRANSP:TRANSPARENT
-SUMMARY:🏀 Napoli – Virtus Costa Bologna (Serie A) – orario da defini
- re
+DTSTART:20270103T110000Z
+DTEND:20270103T130000Z
+SUMMARY:🏀 Napoli – Virtus Costa Bologna (Serie A)
 LOCATION:Alcott Arena\, Napoli
 DESCRIPTION:Serie A\n14° Giornata\nNapoli Basketball – Virtus Costa Bolo
- gna\nOrario non ancora ufficiale: verrà aggiornato appena la lega lo comu
- nica.\nhttps://www.legabasket.it/calendario
+ gna\nhttps://www.legabasket.it/calendario
 URL:https://www.legabasket.it/calendario
 END:VEVENT
 BEGIN:VEVENT

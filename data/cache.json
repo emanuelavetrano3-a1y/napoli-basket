@@ -100,7 +100,10 @@
    "inizio": "2026-11-08T17:00:00+00:00",
    "tutto_il_giorno": false,
    "luogo": "Beta Ricambi Arena PalaMangano, Scafati",
-   "punteggio": null,
+   "punteggio": [
+    89,
+    91
+   ],
    "link": "https://www.legabasket.it/calendario"
   },
   {

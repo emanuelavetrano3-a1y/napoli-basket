@@ -477,7 +477,10 @@
    "inizio": "2026-11-11T18:00:00+00:00",
    "tutto_il_giorno": false,
    "luogo": "MESSE CHEMNITZ, Messeplatz 1, 09116 Chemnitz, Germany",
-   "punteggio": null,
+   "punteggio": [
+    90,
+    112
+   ],
    "link": "https://www.euroleaguebasketball.net/eurocup/"
   },
   {

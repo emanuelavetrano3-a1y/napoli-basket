@@ -1,9 +1,9 @@
 {
- "ultimo_controllo": "2026-11-15T18:55:02+00:00",
+ "ultimo_controllo": "2026-11-16T01:34:34+00:00",
  "stagione": "2026/27",
  "partite": 44,
  "fonti": {
-  "lba": "ok (30 partite)",
+  "lba": "ERRORE, uso i dati salvati: Impossibile scaricare https://www.legabasket.it/api/championships/get-championships?s=2026&items=1000: HTTP Error 500: Internal Server Error",
   "eurocup": "ok (14 partite)"
  }
 }

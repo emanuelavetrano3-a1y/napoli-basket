@@ -468,7 +468,10 @@
    "inizio": "2026-11-18T18:30:00+00:00",
    "tutto_il_giorno": false,
    "luogo": "EKINOX, 25 Avenue Marechal Juin, 01000 Bourg en Bresse, France",
-   "punteggio": null,
+   "punteggio": [
+    91,
+    79
+   ],
    "link": "https://www.euroleaguebasketball.net/eurocup/"
   },
   {
